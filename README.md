@@ -1,1 +1,1 @@
-### Hi there, I'm Frieder - aka [friedersinger][website]
+### Hi there, I'm Frieder
