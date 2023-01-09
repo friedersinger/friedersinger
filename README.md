@@ -9,3 +9,5 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light-small.svg)](https://www.linkedin.com/in/frieder-singer-6a9b9025b/)
+
+[![Frieder's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedersinger)](https://github.com/friedersinger/github-readme-stats)
