@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/frieder-singer-6a9b9025b/)
+[![website](./img/linkedin-light-small.svg)](https://www.linkedin.com/in/frieder-singer-6a9b9025b/)
