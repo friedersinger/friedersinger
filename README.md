@@ -10,4 +10,4 @@
 
 [![website](./img/linkedin-light-small.svg)](https://www.linkedin.com/in/frieder-singer-6a9b9025b/)
 
-[![Frieder's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedersinger&count_private=true)](https://github.com/friedersinger/github-readme-stats)
+[![Frieder's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedersinger&count_private=true&show_icons=true&theme=dark)](https://github.com/friedersinger/github-readme-stats)
