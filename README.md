@@ -12,4 +12,4 @@
 
 [![Frieder's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedersinger&count_private=true&show_icons=true&theme=dark)](https://github.com/friedersinger/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friedersinger)](https://github.com/friedersinger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friedersinger&theme=dark)](https://github.com/friedersinger/github-readme-stats)
