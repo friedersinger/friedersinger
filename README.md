@@ -5,11 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
 - 🔒 I'm also interested in learning about cyber security
-- 🥅 2023 Goals:
-<p>
-- starting my career
-- Improve my programming skills by taking advanced courses and working on personal projects.
-</p>
+- 🥅 2023 Goals: Starting my career, to improve my programming skills by taking advanced courses and working on personal projects.
 
 ### Connect with me:
 
