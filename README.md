@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
+- 🔒 I'm also interested in learning about cyber security and the various ways to protect systems and networks from potential threats.
 - 🥅 2023 Goals: starting my career
 
 ### Connect with me:
