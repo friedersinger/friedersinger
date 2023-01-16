@@ -32,6 +32,7 @@
     <img height="32" width="32" src="https://www.sic-sales.de/wp-content/uploads/2016/04/Swift_logo.svg.png" />
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
+    <img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     <img height="32" width="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
     <img height="32" width="32" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
