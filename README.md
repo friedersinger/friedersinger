@@ -21,7 +21,7 @@
 
 <!-- (https://github.com/friedersinger/github-readme-stats) -->
 
-### My primary programming language is JavaScript, which I use to create dynamic and interactive web applications. In addition to JavaScript, I also have experience working with HTML and CSS, which are essential for creating visually appealing and user-friendly websites. With a strong foundation in these technologies, I am able to develop web applications that are both functional and visually appealing. Furthermore, I have experience working with Python, C, Java and I have a basic understanding of SQL databases. My ability to work with different programming languages and databases allows me to approach problem solving and software development from a variety of angles. Whether I am creating a complex application or working on a simple script, I always strive to deliver high-quality and efficient solutions. I am always eager to take on new challenges and am constantly looking for ways to improve my skills and knowledge.
+### My primary programming language is JavaScript, which I use to create dynamic and interactive web applications. In addition to JavaScript, I also have experience working with HTML and CSS, which are essential for creating visually appealing and user-friendly websites. With a strong foundation in these technologies, I am able to develop web applications that are both functional and visually appealing. Furthermore, I have experience working with Python, C, Java and I have a basic understanding of SQL databases. Experience with React and Bootstrap 4 has been gained through various web development projects. My ability to work with different programming languages and databases allows me to approach problem solving and software development from a variety of angles. Whether I am creating a complex application or working on a simple script, I always strive to deliver high-quality and efficient solutions. I am always eager to take on new challenges and am constantly looking for ways to improve my skills and knowledge.
 
 ## Languages and Tools:
 
@@ -36,6 +36,7 @@
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     <img height="32" width="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
     <img height="32" width="32" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
+    <img height="32" width="32" src="https://www.nicepng.com/png/detail/141-1415492_bootstrap-bootstrap-4-icon-png.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" />
