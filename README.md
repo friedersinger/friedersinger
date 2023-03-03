@@ -1,6 +1,12 @@
 # Hi there, I'm Frieder! 👋
 
-## I am an avid learner who is currently teaching myself how to code. I have always been interested in programming and after exploring other areas, I realized that it is where my true passion lies, and I am fully committing to pursuing a career as a software developer. I am highly motivated and committed to learning everything I can about coding, and I am determined to turn my passion into a successful career. Despite the challenges and obstacles I may face along the way, I am confident in my ability to learn and grow as a developer. I am excited to see where my journey in the world of coding will take me, and I am eager to see what the future holds for my career as a software developer.
+## As an enthusiastic learner, teaching myself how to code, I am deeply passionate about pursuing a career as a software developer. Despite not having a bachelor's degree, I am confident in my ability to learn, grow and succeed in the field.
+
+## JavaScript is my primary programming language, and I use it to build dynamic and interactive web applications. My proficiency in HTML and CSS, as well as my experience working with Python, C, Java, and basic understanding of SQL databases, enable me to approach software development from various perspectives. Through various web development projects, I have also gained experience with React and Bootstrap 4.
+
+## My diverse skill set allows me to deliver high-quality and efficient solutions. I am always eager for new challenges and continually seeking to expand my knowledge and skills.
+
+## Excitement fills me as I look towards the future, with endless opportunities and possibilities waiting to be discovered. The prospect of creating new and innovative applications that can make a real impact in people's lives inspires and motivates me. The journey ahead may not be easy, but I am ready to put in the hard work and dedication required to achieve my goals. With every line of code, I write, I am one step closer to realizing my dream of becoming a successful software developer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
