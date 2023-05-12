@@ -1,6 +1,6 @@
 # Hi there, I'm Frieder! 👋
 
-## As an enthusiastic learner, teaching myself how to code, I am deeply passionate about pursuing a career as a software developer. Despite not having a bachelor's degree, I am confident in my ability to learn, grow and succeed in the field.
+## I am proud to be currently enrolled in a program at the Developer Academy that is training career changers to become software developers. This academy is a TÜV-certified educational institution that provides intensive training in front-end development for 4 to 16 months. With over 34 comprehensive modules, the focus is on developing your own projects, either individually or in agile groups, and receiving guidance all the way from your first lines of code to your first IT job.
 
 ## JavaScript is my primary programming language, and I use it to build dynamic and interactive web applications. My proficiency in HTML and CSS, as well as my experience working with Python, C, Java, and basic understanding of SQL databases, enable me to approach software development from various perspectives. Through various web development projects, I have also gained experience with React and Bootstrap 4.
 
