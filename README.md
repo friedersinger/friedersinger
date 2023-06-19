@@ -43,7 +43,7 @@
     <img height="32" width="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
     <img height="32" width="32" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
     <img height="32" width="32" src="https://www.nicepng.com/png/detail/141-1415492_bootstrap-bootstrap-4-icon-png.png" />
-    <img height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.m.wikipedia.org%2Fwiki%2FDatei%3AAngular_full_color_logo.svg&psig=AOvVaw25UNYnrBB40NbbsX4TxfUI&ust=1687252770067000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJj6vcKAz_8CFQAAAAAdAAAAABAD" />
+    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" />
