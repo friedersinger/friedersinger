@@ -1,17 +1,13 @@
 # Hi there, I'm Frieder! 👋
 
-## I am proud to be currently enrolled in a program at the Developer Academy that is training career changers to become software developers. This academy is a TÜV-certified educational institution that provides intensive training in front-end development for 4 to 16 months. With over 34 comprehensive modules, the focus is on developing your own projects, either individually or in agile groups, and receiving guidance all the way from your first lines of code to your first IT job.
+## I am proud to announce that I have successfully completed a program at the Developer Academy and have transitioned into my new role as a Frontend Web Developer. The academy provided me with comprehensive training in front-end development, and I am now equipped with the necessary skills to excel in this field. With my strong foundation in JavaScript, HTML, and CSS, I have embraced Angular as my primary framework in my current job.
 
-## JavaScript is my primary programming language, and I use it to build dynamic and interactive web applications. My proficiency in HTML and CSS, as well as my experience working with Python, C, Java, and basic understanding of SQL databases, enable me to approach software development from various perspectives. Through various web development projects, I have also gained experience with Angular, React and Bootstrap 4.
+## As a Frontend Web Developer, I utilize Angular to create dynamic and interactive web applications. This powerful framework allows me to efficiently build robust user interfaces and implement complex functionalities. With my prior experience in web development projects, including exposure to React and Bootstrap, I have developed a well-rounded skill set that enables me to tackle a wide range of challenges.
 
-## My diverse skill set allows me to deliver high-quality and efficient solutions. I am always eager for new challenges and continually seeking to expand my knowledge and skills.
+## I am incredibly excited about my new role as a Frontend Web Developer, as it presents me with endless opportunities for growth and innovation. The ability to leverage Angular and other cutting-edge technologies in my daily work is both inspiring and motivating. I am dedicated to continuously expanding my knowledge and staying updated with the latest industry trends to deliver high-quality solutions.
 
-## Excitement fills me as I look towards the future, with endless opportunities and possibilities waiting to be discovered. The prospect of creating new and innovative applications that can make a real impact in people's lives inspires and motivates me. The journey ahead may not be easy, but I am ready to put in the hard work and dedication required to achieve my goals. With every line of code, I write, I am one step closer to realizing my dream of becoming a successful software developer.
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
+- 🌱 I’m currently learning Angular, TypeScript
 - 🔒 I'm also interested in learning about cyber security
-- 🥅 2023 Goals: Starting my career, to improve my programming skills by taking advanced courses and working on personal projects.
 
 ### Connect with me:
 
@@ -26,8 +22,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friedersinger&theme=dark)] -->
 
 <!-- (https://github.com/friedersinger/github-readme-stats) -->
-
-### My primary programming language is JavaScript, which I use to create dynamic and interactive web applications. In addition to JavaScript, I also have experience working with HTML and CSS, which are essential for creating visually appealing and user-friendly websites. With a strong foundation in these technologies, I am able to develop web applications that are both functional and visually appealing. Furthermore, I have experience working with Python, C, Java and I have a basic understanding of SQL databases. Experience with Angular, React and Bootstrap 4 has been gained through various web development projects. My ability to work with different programming languages and databases allows me to approach problem solving and software development from a variety of angles. Whether I am creating a complex application or working on a simple script, I always strive to deliver high-quality and efficient solutions. I am always eager to take on new challenges and am constantly looking for ways to improve my skills and knowledge.
 
 ## Languages and Tools:
 
