@@ -6,7 +6,7 @@
 
 ## I am incredibly excited about my new role as a Frontend Web Developer, as it presents me with endless opportunities for growth and innovation. The ability to leverage Angular and other cutting-edge technologies in my daily work is both inspiring and motivating. I am dedicated to continuously expanding my knowledge and staying updated with the latest industry trends to deliver high-quality solutions.
 
-- 🌱 I’m currently learning Angular, TypeScript
+- 🌱 I’m currently learning Angular, TypeScript and more
 - 🔒 I'm also interested in learning about cyber security
 
 ### Connect with me:
