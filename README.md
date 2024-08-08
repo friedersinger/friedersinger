@@ -4,7 +4,7 @@
 
 ## As a Frontend Web Developer, I utilize Angular to create dynamic and interactive web applications. This powerful framework allows me to efficiently build robust user interfaces and implement complex functionalities. With my prior experience in web development projects, including exposure to React and Bootstrap, I have developed a well-rounded skill set that enables me to tackle a wide range of challenges.
 
-## I am incredibly excited about my new role as a Frontend Web Developer, as it presents me with endless opportunities for growth and innovation. The ability to leverage Angular and other cutting-edge technologies in my daily work is both inspiring and motivating. I am dedicated to continuously expanding my knowledge and staying updated with the latest industry trends to deliver high-quality solutions.
+## Excitement for the role as a Frontend Web Developer remains high, with over a year of experience in the professional field. The work is still as captivating as ever, with each day presenting new opportunities for growth and innovation. Leveraging Angular and other cutting-edge technologies in daily tasks continues to be both inspiring and motivating. Dedication to expanding knowledge and staying updated with the latest industry trends ensures the delivery of high-quality solutions.
 
 - 🌱 I’m currently learning Angular, TypeScript and more
 - 🔒 I'm also interested in learning about cyber security
