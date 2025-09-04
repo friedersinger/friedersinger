@@ -13,11 +13,6 @@ I’m also a **co-founder of Fensterwerke³ GmbH**, where I lead the technical d
 **Side:** Git · Firebase (Firestore SDK, real-time streaming) · Java (RocketDB, RQL) · Agile (Scrum)  
 **Additional exposure:** React, Python, Swift, SQL  
 
----
-
-## 🌱 Currently Learning
-- Advanced Angular & TypeScript  
-- Exploring cybersecurity fundamentals  
 
 ### Connect with me:
 
