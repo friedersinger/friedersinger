@@ -1,17 +1,27 @@
 # Hi there, I'm Frieder! 👋
 
-## I am proud to announce that I have successfully completed a program at the Developer Academy and have transitioned into my new role as a Frontend Web Developer. The academy provided me with comprehensive training in front-end development, and I am now equipped with the necessary skills to excel in this field. With my strong foundation in JavaScript, HTML, and CSS, I have embraced Angular as my primary framework in my current job.
+## About Me
+I’m a German-speaking **Frontend Developer** with a strong focus on **Angular, TypeScript, and modern web technologies**.  
+I hold a project-based qualification from the **Developer Akademie (JavaScript & Angular)** and have since gained professional experience as a **Frontend Developer at Helmedica AG**, where I work on the **RocketHealth** web application.  
 
-## As a Frontend Web Developer, I utilize Angular to create dynamic and interactive web applications. This powerful framework allows me to efficiently build robust user interfaces and implement complex functionalities. With my prior experience in web development projects, including exposure to React and Bootstrap, I have developed a well-rounded skill set that enables me to tackle a wide range of challenges.
+I’m also a **co-founder of Fensterwerke³ GmbH**, where I lead the technical development of our company website and configurator — applying my skills in **UI/UX, SEO, and digitalization** in a real business context.  
 
-## Excitement for the role as a Frontend Web Developer remains high, with over a year of experience in the professional field. The work is still as captivating as ever, with each day presenting new opportunities for growth and innovation. Leveraging Angular and other cutting-edge technologies in daily tasks continues to be both inspiring and motivating. Dedication to expanding knowledge and staying updated with the latest industry trends ensures the delivery of high-quality solutions.
+---
 
-- 🌱 I’m currently learning Angular, TypeScript and more
-- 🔒 I'm also interested in learning about cyber security
+## 🔧 Tech Stack
+**Main:** Angular · TypeScript · JavaScript · HTML · CSS/SCSS · Bootstrap  
+**Side:** Git · Firebase (Firestore SDK, real-time streaming) · Java (RocketDB, RQL) · Agile (Scrum)  
+**Additional exposure:** React, Python, Swift, SQL  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Angular & TypeScript  
+- Exploring cybersecurity fundamentals  
 
 ### Connect with me:
 
-[![website](./img/linkedin-light-small.svg)](https://www.linkedin.com/in/frieder-singer-6a9b9025b/)
+[![website](./img/linkedin-light-small.svg)](https://www.linkedin.com/in/frieder-s-6a9b9025b/)
 
 <!-- API fail BUG-->
 <!-- [![Frieder's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedersinger&count_private=true&show_icons=true&theme=dark) -->
